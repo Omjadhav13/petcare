@@ -77,4 +77,4 @@ Visit the website: https://www.knightbot.cloud/
   
 ## Acknowledgements
 
-My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project.
+My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project. 
