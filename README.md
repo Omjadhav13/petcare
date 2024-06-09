@@ -22,9 +22,9 @@ An Azure account with an active subscription. Create an account for free. Or sim
 
 **Link to our custom domain: https://www.knightbot.cloud/**
 
-**Project Documentation : https://drive.google.com/file/d/1mSSBKvxazhaupZvrpIcAM5ktdmiF2a6y/view?usp=drive_link**
+**Presentation Video : https://drive.google.com/file/d/1mSSBKvxazhaupZvrpIcAM5ktdmiF2a6y/view?usp=drive_link**
 
-**Presentation Video: [https://drive.google.com/drive/folders/1gRJb6NKTV61vfR69gE3LVpWEB6JW9xY9?usp=drive_link](https://drive.google.com/file/d/1e-9usDpaTKBnRrjnLJuzG2sYImq-UwIq/view?usp=drive_link)**
+**Project Documnetation : [https://drive.google.com/drive/folders/1gRJb6NKTV61vfR69gE3LVpWEB6JW9xY9?usp=drive_link](https://drive.google.com/file/d/1e-9usDpaTKBnRrjnLJuzG2sYImq-UwIq/view?usp=drive_link)**
 
 # Industry Type :-
 Health
